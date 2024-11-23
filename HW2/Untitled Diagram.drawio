@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.9">
   <diagram name="Page-1" id="P-KcFJID94FAikXty9aJ">
-    <mxGraphModel dx="2745" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2453" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8xeOVaT5Xfbk2KTu87KN-35" value="แก้ไขโจทย์ปัญหา" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
-          <mxGeometry x="-745" y="510" width="640" height="2130" as="geometry" />
+          <mxGeometry x="-730" y="570" width="640" height="2130" as="geometry" />
         </mxCell>
         <mxCell id="8xeOVaT5Xfbk2KTu87KN-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8xeOVaT5Xfbk2KTu87KN-35" target="8xeOVaT5Xfbk2KTu87KN-40" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -182,7 +182,7 @@
           <mxGeometry x="255" y="40" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8xeOVaT5Xfbk2KTu87KN-37" value="&lt;font face=&quot;Sarabun&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="8xeOVaT5Xfbk2KTu87KN-35" vertex="1">
-          <mxGeometry x="254.98999999999998" y="1760" width="130" height="30" as="geometry" />
+          <mxGeometry x="255.01" y="1800" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8xeOVaT5Xfbk2KTu87KN-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8xeOVaT5Xfbk2KTu87KN-35" source="8xeOVaT5Xfbk2KTu87KN-40" target="8xeOVaT5Xfbk2KTu87KN-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -286,6 +286,14 @@
         </mxCell>
         <mxCell id="8xeOVaT5Xfbk2KTu87KN-103" value="สามารถทำงานนี้ได้หรือไม่" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="8xeOVaT5Xfbk2KTu87KN-35" vertex="1">
           <mxGeometry x="262.00000000000006" y="500" width="116.67" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p2jsZ-Sx3qXyovS0YBqY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8xeOVaT5Xfbk2KTu87KN-35" source="8xeOVaT5Xfbk2KTu87KN-105" target="8xeOVaT5Xfbk2KTu87KN-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="535" />
+              <mxPoint x="40" y="1815" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8xeOVaT5Xfbk2KTu87KN-105" value="แนะนำลูกค้าไปยังผู้ที่มีทักษะตรงกับงาน" style="rounded=0;whiteSpace=wrap;html=1;" parent="8xeOVaT5Xfbk2KTu87KN-35" vertex="1">
           <mxGeometry x="100" y="515" width="130" height="40" as="geometry" />
