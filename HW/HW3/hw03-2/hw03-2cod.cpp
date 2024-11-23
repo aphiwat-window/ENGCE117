@@ -1,25 +1,21 @@
-//TODO: #9 Fix bug and arrange code in CODEX pattern.
+//TODO: #8 Arrange this C coding into CODEX pattern.
 #include <stdio.h>
 #include <conio.h>
-int main(){
-    float a , b = 3 ;
-    bool _1 = 0 ;
-    printf( "%d " , _1 ) ;
+int main() {
 
-    int i = 0 ; 
-
-    if( _1 != 0 ) {
-        printf( "ok " ) ;
-    } else {
-        while( i <= 5 ) {
-            printf( " not-okey-%d " , ++i ) ;
-        }
-    }
-            for( int i=3 ; i < 10 ; i += 1 ) {
-                if( i%2 == (!1?1:2)) {
-                    printf( "see see" ) ;
-                    printf( "haha" ) ;
-                }
+    int a = 10 ;
+    int b = 20 , c = 30 , d = 40 ; 
+    
+    printf( "This is %d + %d = %d " , a , b , a + b ) ;
+    for( int i = 0 ; i < d -30 ; i++ ) {
+        if ( i < 30 ) {
+            printf( "Here " ) ;
+            if( i==8 ) {
+                printf( "This is 8. " ) ;
             }
-    return 0;
+        } 
+        printf( "ok" ) ;
     }
+
+    return 0 ;
+}
