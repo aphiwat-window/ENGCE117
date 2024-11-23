@@ -1,0 +1,2 @@
+Enter w and h : 3 5
+Triagle Area : 7.5
