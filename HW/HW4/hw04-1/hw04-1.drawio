@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.9">
   <diagram name="Page-1" id="uEjzUdjWAyRHxHS-D4l6">
-    <mxGraphModel dx="1445" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1569" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,38 @@
         <mxCell id="9h7gsQoLeVkNBklhNs0W-10" value="กำหนดตัวแปร&amp;nbsp;char c[] = &quot;Haha&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-531.88" y="220" width="175.41" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9h7gsQoLeVkNBklhNs0W-12" target="9h7gsQoLeVkNBklhNs0W-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9h7gsQoLeVkNBklhNs0W-12" value="กำหนดตัวแปร&amp;nbsp;char d = &#39;a&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-531.88" y="290" width="175.41" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9h7gsQoLeVkNBklhNs0W-15" target="9h7gsQoLeVkNBklhNs0W-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-15" value="แสดงค่า a" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-542.5" y="370" width="196.66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9h7gsQoLeVkNBklhNs0W-17" target="9h7gsQoLeVkNBklhNs0W-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-17" value="แสดงค่า b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-542.5" y="450" width="196.66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9h7gsQoLeVkNBklhNs0W-19" target="9h7gsQoLeVkNBklhNs0W-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-19" value="แสดงค่า c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-542.5" y="530" width="196.66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9h7gsQoLeVkNBklhNs0W-21" target="9h7gsQoLeVkNBklhNs0W-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-21" value="แสดงค่า d" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-542.5" y="620" width="196.66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9h7gsQoLeVkNBklhNs0W-23" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-509.18" y="720" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
