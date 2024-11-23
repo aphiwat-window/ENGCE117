@@ -1,0 +1,17 @@
+Matrix1 :
+1 2 3
+4 5 6
+
+Matrix2 :
+7 8
+9 4
+5 6
+
+Transpose of Matrix1 is :
+1 4
+2 5
+3 6
+
+Matrix1 x Matrix2 is :
+40 34
+103 88
