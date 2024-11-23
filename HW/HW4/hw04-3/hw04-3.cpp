@@ -14,7 +14,7 @@
 #include <stdio.h>
 int main() {
     int a = 0 , b = 0 , c = 0 ;
-    printf( "กรอกค่า a b c : " ) ;
+    printf( "Enter a b c : " ) ;
     scanf( "%d %d %d" , &a , &b , &c ) ;
     printf( "Answer = %d" , a + b + c) ;
 }//end main
