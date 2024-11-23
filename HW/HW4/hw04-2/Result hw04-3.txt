@@ -1,0 +1,19 @@
+Please enter value (a b) : 20 6
+a = 20 , b = 6
+a + b = 26
+a - b = 14
+a * b = 120
+a / b = 3 (b must greater than 0)
+a % b = 2
+++a = 21
+a-- = 21
+a += 1 = 21
+a += b = 27
+a -= 1 = 26
+a -= b = 20
+a *= 1 = 20
+a *= b = 120
+a = 1 = 0
+a = b = 0
+a && b = 0
+a || b = 1
