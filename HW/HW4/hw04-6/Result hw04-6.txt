@@ -1,0 +1,4 @@
+Input the working hrs: 11
+Salary amount/hr: 34000
+Employees ID = 0000500349
+Salary = U$ 374,000.00
