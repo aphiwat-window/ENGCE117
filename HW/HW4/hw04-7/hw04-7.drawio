@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.9">
   <diagram name="Page-1" id="jfibt7xzoH2slr5b_A1N">
-    <mxGraphModel>
+    <mxGraphModel dx="1753" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gwgsazPNigCH8Qmjw52X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwgsazPNigCH8Qmjw52X-1" target="gwgsazPNigCH8Qmjw52X-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwgsazPNigCH8Qmjw52X-2" target="gwgsazPNigCH8Qmjw52X-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-2" value="กำหนดตัวแปร tem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-552.25" y="120" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwgsazPNigCH8Qmjw52X-4" target="gwgsazPNigCH8Qmjw52X-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-4" value="รับค่า tem" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="190" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwgsazPNigCH8Qmjw52X-6" target="gwgsazPNigCH8Qmjw52X-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-6" value="แปลงจาก C เป็น F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-552.25" y="260" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwgsazPNigCH8Qmjw52X-8" target="gwgsazPNigCH8Qmjw52X-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-8" value="แสดงค่า" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="340" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwgsazPNigCH8Qmjw52X-10" value="&lt;font face=&quot;Sarabun&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
