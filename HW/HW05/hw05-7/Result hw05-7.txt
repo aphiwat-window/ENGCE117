@@ -1,0 +1,12 @@
+Input :
+1989
+
+Output:
+February has 28 days
+
+
+Input :
+2000
+
+Output:
+February has 29 days
