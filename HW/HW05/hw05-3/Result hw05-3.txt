@@ -1,0 +1,6 @@
+Enter number (0-30) : 12
+Twelve
+
+
+Enter number (0-30) : 4
+Four
