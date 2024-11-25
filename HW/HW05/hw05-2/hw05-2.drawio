@@ -124,16 +124,16 @@
         <mxCell id="r2GQ61UGdVES13xG0Zt3-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="r2GQ61UGdVES13xG0Zt3-58" target="r2GQ61UGdVES13xG0Zt3-61" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r2GQ61UGdVES13xG0Zt3-58" value="num1 &amp;gt; num3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r2GQ61UGdVES13xG0Zt3-58" value="num1 &amp;gt; num2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="970" width="112" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r2GQ61UGdVES13xG0Zt3-59" value="พิม&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;num2&lt;/span&gt;&amp;nbsp;num1 num3&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="r2GQ61UGdVES13xG0Zt3-59" value="พิม&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;num3&lt;/span&gt;&amp;nbsp;num1 num2&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-469.0000000000001" y="1080" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r2GQ61UGdVES13xG0Zt3-60" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-519.17" y="970" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r2GQ61UGdVES13xG0Zt3-61" value="พิม&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;num2&lt;/span&gt;&amp;nbsp;num3 num2&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="r2GQ61UGdVES13xG0Zt3-61" value="พิม&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;num3&lt;/span&gt;&amp;nbsp;num2 num1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-290.0000000000001" y="985" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r2GQ61UGdVES13xG0Zt3-62" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
