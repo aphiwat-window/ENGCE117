@@ -1,0 +1,10 @@
+Input :
+15
+Output:
+15 is odd integer
+
+
+Input :
+-22
+Output:
+-22 is even integer
