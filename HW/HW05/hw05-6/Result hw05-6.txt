@@ -1,0 +1,12 @@
+Input :
+49
+
+Output:
+Positive
+
+
+Input :
+-90
+
+Output:
+Negative
