@@ -1,0 +1,5 @@
+enter score : 80
+A
+
+enter score : sakwong
+please enter number only.
