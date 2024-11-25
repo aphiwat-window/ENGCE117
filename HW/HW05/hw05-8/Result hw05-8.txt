@@ -1,0 +1,14 @@
+Input : 30 50 100
+Output :
+1st Number = 30
+2st Number = 50
+3st Number = 100
+The 3rd Number is the greatest among three
+
+
+Input : 100 40 20
+Output :
+1st Number = 100
+2st Number = 40
+3st Number = 20
+The 1rd Number is the greatest among three
