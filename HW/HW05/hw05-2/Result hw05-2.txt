@@ -1,0 +1,20 @@
+Input[1] : 
+6
+Input[2] :
+9
+Input[3] :
+1
+
+Output:
+9 6 1
+
+
+Input[1] : 
+112
+Input[2] :
+91
+Input[3] :
+65
+
+Output:
+112 91 65
