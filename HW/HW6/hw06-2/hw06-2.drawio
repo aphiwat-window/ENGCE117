@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="ODRpRkfFOrF1jWLFc1VL">
-    <mxGraphModel dx="2339" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,14 +36,26 @@
             <mxPoint x="-525.0434782608695" y="-850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2ShAjCmtuq8SF56eXPsB-13" value="กำหนดเลข&lt;div&gt;1000 , 900 , 500 , 400 , 100 , 90 , 50 , 40 , 10 , 9 , 5 , 4 , 1&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-13" value="กำหนดตัวแปร&amp;nbsp;num&lt;div&gt;1000 , 900 , 500 , 400 , 100 , 90 , 50 , 40 , 10 , 9 , 5 , 4 , 1&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-697.5" y="-920" width="345" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2ShAjCmtuq8SF56eXPsB-14" value="กรอกค่า input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-590.0000000000001" y="-850" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2ShAjCmtuq8SF56eXPsB-16" value="&lt;div&gt;กำหนดตัวอักศรเลขโรมัน&lt;/div&gt;&quot;M&quot; , &quot;CM&quot; , &quot;D&quot; , &quot;CD&quot; , &quot;C&quot; , &quot;XC&quot; , &quot;L&quot; , &quot;XL&quot; , &quot;X&quot; , &quot;IX&quot; , &quot;V&quot; , &quot;IV&quot; , &quot;I&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ShAjCmtuq8SF56eXPsB-16" target="2ShAjCmtuq8SF56eXPsB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-16" value="&lt;div&gt;กำหนดตัวแปร&amp;nbsp;roman&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;M&quot; , &quot;CM&quot; , &quot;D&quot; , &quot;CD&quot; , &quot;C&quot; , &quot;XC&quot; , &quot;L&quot; , &quot;XL&quot; , &quot;X&quot; , &quot;IX&quot; , &quot;V&quot; , &quot;IV&quot; , &quot;I&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="-850" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-17" value="กรอกค่า input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-590.0000000000001" y="-750" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-19" value="กำหนดเลขโรมัน&lt;div&gt;ครบหรือไม่&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-601.66" y="-650" width="153.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-20" value="ถ้าเลข input มากกว่าเลข" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-601.66" y="-520" width="153.33" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
