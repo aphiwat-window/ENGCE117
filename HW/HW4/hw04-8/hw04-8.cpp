@@ -44,7 +44,7 @@ int main() {
         output[Digit] = result % 2;
         result /= 2 ;
         Digit ++ ;
-    }//end for แปลงฐาน 2
+    }//end while แปลงฐาน 2
     for ( int i = Digit - 1 ; i >= 0 ; i-- ) {
         printf( "%d" , output[i] ) ;  
     }//end แสดงเลขกำลับหลัง
