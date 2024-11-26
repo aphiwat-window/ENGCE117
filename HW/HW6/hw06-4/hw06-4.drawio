@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="Jzz3NGUdnOjh4-X71VKQ">
-    <mxGraphModel dx="1267" dy="2426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1445" dy="2523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AegAM9_BAk3x1VJknWDE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AegAM9_BAk3x1VJknWDE-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-185" y="-980" as="targetPoint" />
+            <mxPoint x="-425" y="-1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AegAM9_BAk3x1VJknWDE-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250.0000000000001" y="-1040" width="130" height="30" as="geometry" />
+          <mxGeometry x="-490.0000000000001" y="-1180" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AegAM9_BAk3x1VJknWDE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AegAM9_BAk3x1VJknWDE-2" target="AegAM9_BAk3x1VJknWDE-3">
           <mxGeometry relative="1" as="geometry" />
@@ -18,14 +18,13 @@
         <mxCell id="AegAM9_BAk3x1VJknWDE-2" value="กำหนดตัวแปร Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490.0000000000001" y="-980" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AegAM9_BAk3x1VJknWDE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AegAM9_BAk3x1VJknWDE-3" target="AegAM9_BAk3x1VJknWDE-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AegAM9_BAk3x1VJknWDE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AegAM9_BAk3x1VJknWDE-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-425" y="-840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AegAM9_BAk3x1VJknWDE-3" value="กรอกค่า Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-490.0000000000001" y="-910" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AegAM9_BAk3x1VJknWDE-6" value="กำหนดตัวแปร Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490.0000000000001" y="-840" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AegAM9_BAk3x1VJknWDE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AegAM9_BAk3x1VJknWDE-8" target="AegAM9_BAk3x1VJknWDE-2">
           <mxGeometry relative="1" as="geometry" />
@@ -38,6 +37,9 @@
         </mxCell>
         <mxCell id="AegAM9_BAk3x1VJknWDE-11" value="กำหนดตัวแปร sum&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490.0000000000001" y="-1120" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AegAM9_BAk3x1VJknWDE-13" value="ปริ้นค่า sum&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-840" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
