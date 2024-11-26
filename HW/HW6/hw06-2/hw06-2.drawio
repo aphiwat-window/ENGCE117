@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="ODRpRkfFOrF1jWLFc1VL">
-    <mxGraphModel dx="1346" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,14 +48,58 @@
         <mxCell id="2ShAjCmtuq8SF56eXPsB-16" value="&lt;div&gt;กำหนดตัวแปร&amp;nbsp;roman&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;M&quot; , &quot;CM&quot; , &quot;D&quot; , &quot;CD&quot; , &quot;C&quot; , &quot;XC&quot; , &quot;L&quot; , &quot;XL&quot; , &quot;X&quot; , &quot;IX&quot; , &quot;V&quot; , &quot;IV&quot; , &quot;I&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="-850" width="350" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ShAjCmtuq8SF56eXPsB-17" target="2ShAjCmtuq8SF56eXPsB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2ShAjCmtuq8SF56eXPsB-17" value="กรอกค่า input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-590.0000000000001" y="-750" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ShAjCmtuq8SF56eXPsB-19" target="2ShAjCmtuq8SF56eXPsB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ShAjCmtuq8SF56eXPsB-19" target="2ShAjCmtuq8SF56eXPsB-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-320" y="-614.9999999999999" />
+              <mxPoint x="-320" y="-230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2ShAjCmtuq8SF56eXPsB-19" value="กำหนดเลขโรมัน&lt;div&gt;ครบหรือไม่&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-601.66" y="-650" width="153.33" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2ShAjCmtuq8SF56eXPsB-20" value="ถ้าเลข input มากกว่าเลข" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-601.66" y="-520" width="153.33" height="70" as="geometry" />
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ShAjCmtuq8SF56eXPsB-20" target="2ShAjCmtuq8SF56eXPsB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-20" value="ถ้าเลข input มากกว่าตัวแปร num ลบ input กับ num&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-601.67" y="-500" width="153.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-23" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ShAjCmtuq8SF56eXPsB-24" target="2ShAjCmtuq8SF56eXPsB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-537.51" y="-546" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ShAjCmtuq8SF56eXPsB-27" target="2ShAjCmtuq8SF56eXPsB-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-525" y="-300" />
+              <mxPoint x="-660" y="-300" />
+              <mxPoint x="-660" y="-533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-27" value="ปริ้นค่า roman&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-589.9900000000001" y="-390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-30" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-478.34" y="-670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ShAjCmtuq8SF56eXPsB-31" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590.01" y="-180" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
