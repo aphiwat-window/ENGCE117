@@ -1,9 +1,53 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="Au8I1BLo6GMw704QHYES">
-    <mxGraphModel>
+    <mxGraphModel dx="1267" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rqqakwgtmynD3VV7ngg2-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqqakwgtmynD3VV7ngg2-2" target="rqqakwgtmynD3VV7ngg2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-661.66" y="-1070" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqqakwgtmynD3VV7ngg2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-596.7142857142857" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-4" value="กำหนดตัวแปร input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-661.6600000000001" y="-1010" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-10" value="&lt;div&gt;หาจุดกึ่งกลาง =&lt;/div&gt;x1 + x2 / 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-661.6600000000001" y="-430" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqqakwgtmynD3VV7ngg2-11" target="rqqakwgtmynD3VV7ngg2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-11" value="รับค่า input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-680.83" y="-940" width="168.34" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-12" value="input เป็นเลขคู่หรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-673.33" y="-730" width="153.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqqakwgtmynD3VV7ngg2-14" target="rqqakwgtmynD3VV7ngg2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-14" value="วนครบแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-673.32" y="-850" width="153.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-20" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-561.66" y="-860" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-21" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-591.66" y="-790" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-22" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-591.66" y="-660" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rqqakwgtmynD3VV7ngg2-23" value="ใช้รูปแบบ&amp;nbsp;&lt;div&gt;[จำนวนรอบ]Hello World&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-688.33" y="-630" width="168.34" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
