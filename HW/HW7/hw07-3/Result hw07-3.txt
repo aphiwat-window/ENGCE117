@@ -1,0 +1,10 @@
+Enter start : 5
+Output:
+Series = 9 + 99 + 999 + 9999 + 99999
+Sum = 1111095
+
+
+Enter start : 7
+Output:
+Series = 9 + 99 + 999 + 9999 + 99999 + 999999 + 9999999
+Sum = 111111093
