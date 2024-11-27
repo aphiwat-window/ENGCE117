@@ -1,0 +1,18 @@
+Enter score: 80
+Output:
+A !
+
+
+Enter score: 55
+Output:
+D+ !
+
+
+Enter score: 64
+Output:
+C !
+
+
+Enter score: 44
+Output:
+F !
