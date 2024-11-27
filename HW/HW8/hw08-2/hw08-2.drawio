@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.2">
   <diagram name="Page-1" id="AHYE6JHrMXzp6rr6YUCm">
-    <mxGraphModel>
+    <mxGraphModel dx="2453" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DNTLOJVToYpotqmwzTOn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-1" target="DNTLOJVToYpotqmwzTOn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800.0000000000001" y="-1050" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-4" target="DNTLOJVToYpotqmwzTOn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-4" value="กำหนดตัวแปร input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800.0000000000001" y="-980" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-5" target="DNTLOJVToYpotqmwzTOn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-5" value="กรอกค่า input" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-800.0000000000001" y="-900" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-8" target="DNTLOJVToYpotqmwzTOn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-8" value="input&lt;div&gt;&amp;gt;80&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="-810" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-10" target="DNTLOJVToYpotqmwzTOn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-10" value="&amp;gt;= 75 &amp;amp;&amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt; 80&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="-680" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-11" target="DNTLOJVToYpotqmwzTOn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-11" value="70 &amp;amp;&amp;amp; &amp;lt; 75" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="-560" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-12" target="DNTLOJVToYpotqmwzTOn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-12" value="65 &amp;amp;&amp;amp; &amp;lt; 70" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="-430" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-13" target="DNTLOJVToYpotqmwzTOn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-13" value="60 &amp;amp;&amp;amp; &amp;lt; 65" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="-290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-14" target="DNTLOJVToYpotqmwzTOn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-14" value="55 &amp;amp;&amp;amp; &amp;lt; 60" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="-150" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNTLOJVToYpotqmwzTOn-15" target="DNTLOJVToYpotqmwzTOn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-15" value="&amp;gt;= 50 &amp;amp;&amp;amp; &amp;lt; 55" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-795" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNTLOJVToYpotqmwzTOn-22" value="&amp;lt; 50" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="140" width="120" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
