@@ -1,0 +1,28 @@
+Enter N : 
+9
+Element [0]
+6
+Element [1]
+6
+Element [2]
+5
+Element [3]
+9
+Element [4]
+1
+Element [5]
+9
+Element [6]
+7
+Element [7]
+6
+Element [8]
+2
+
+Output :
+1 -> 1
+2 -> 1
+5 -> 1
+6 -> 3
+7 -> 1
+9 -> 2
