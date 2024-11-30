@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.0">
   <diagram name="Page-1" id="sKNWxPJid322GRYS-dcg">
-    <mxGraphModel>
+    <mxGraphModel dx="1718" dy="2671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-465.0000000000001" y="-1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-1110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-3" target="z9-xGRmBBUTCH9tcJlYA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-3" value="กำหนดตัวแปร sum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-970" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-4" target="z9-xGRmBBUTCH9tcJlYA-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-465" y="-810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-4" value="กรอกตัวแปร input" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-890" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-6" target="z9-xGRmBBUTCH9tcJlYA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-6" value="input = input - 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-547.5" y="-750" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-8" target="z9-xGRmBBUTCH9tcJlYA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-8" value="กำหนดตัวแปร input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-1050" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-10" target="z9-xGRmBBUTCH9tcJlYA-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-620" y="-480" />
+              <mxPoint x="-620" y="-790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-10" target="z9-xGRmBBUTCH9tcJlYA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-10" value="วนครบแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-529" y="-520" width="128" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-13" target="z9-xGRmBBUTCH9tcJlYA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-13" value="ปริ้นค่า input&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-660" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-16" target="z9-xGRmBBUTCH9tcJlYA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="-800" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-19" target="z9-xGRmBBUTCH9tcJlYA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-19" value="ปริ้นค่า sum" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-400" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9-xGRmBBUTCH9tcJlYA-21" target="z9-xGRmBBUTCH9tcJlYA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-21" value="sum += input" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-590" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-24" value="&lt;font face=&quot;Sarabun&quot;&gt;END&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-310" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-26" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="-450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9-xGRmBBUTCH9tcJlYA-27" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-547.5" y="-510" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
