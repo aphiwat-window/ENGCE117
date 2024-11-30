@@ -28,7 +28,7 @@
 
 int main() {
 
-    int input[100] , output[100] , n = 0 , swap = 0 , swap2 = 0 ; 
+    int input[100] , output[100] , n = 0 , swap = 0 ; 
     do {
         printf( "Input\n" ) ;
         scanf( "%d" , &input[n] ) ;
@@ -44,9 +44,9 @@ int main() {
                 input[j + 1] = swap; 
             } //end if น้อยไปมาก
             if (output[j] < output[j + 1]) {
-                swap2 = output[j] ;
+                swap = output[j] ;
                 output[j] = output[j + 1] ;
-                output[j + 1] = swap2 ;
+                output[j + 1] = swap ;
             } //end if มากไปน้อย
         }//end if สลับ
     }//end if จำนวนรอบ
