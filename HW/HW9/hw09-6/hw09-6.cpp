@@ -86,15 +86,15 @@ int main() {
 
     printf( "Enter element of Array2 : " ) ;
     scanf( "%d" , &n2 ) ;
-    for (int i = 0; i < n2; i++) {
+    for ( int i = 0 ; i < n2 ; i++ ) {
         printf( "--| Array2 [%d] : " , i ) ;
         scanf( "%d" , &input2[i] ) ;
     }//end for arr2
 
     n3 = n2 + n ;
-    for ( int i = 0; i < n; i++ ) {
+    for ( int i = 0 ; i < n ; i++ ) {
         input3[i] = input1[i] ;
-    } for ( int i = 0; i < n2; i++) {
+    } for ( int i = 0 ; i < n2 ; i++ ) {
         input3[n+i] = input2[i] ;
     }//end cpy จาก 1 ไป 3 และ 2 ไป 3
     sorut( input3 , n3 ) ;
