@@ -18,19 +18,19 @@ int main() {
     for (int i = 0 ; i < num ; i++) {
        printf( "str2[%d] = \"%s\"\n" , i , out[i] ) ; 
     }//end for แสดงค่า
-    printf( "count = %d" , num ) ;
+     if ( num != 0 ) {
+        printf( "count = %d" , num ) ;
+    } else {
+        printf( "count = 0" ) ; 
+    }//end แสดงผล
     return 0 ;
 }//end function
 
 void explode( char str1[] , char splitter[] , char str2[][10] , int *count ) {
     char *token = strtok( str1 , splitter ) ; //เช็คค่า splitter
-    if ( token == NULL ) {
-        printf( "count = 0" ) ; 
-    } else {
         while (token != NULL) {
             strcpy( str2[*count] , token ) ; //ก็อปใส่ str2
             ( *count ) ++ ;
             token = strtok( NULL , splitter ) ; 
         }//end แยกคำ
-    }//end if เช็คว่ามีตัวอักษรไหม
 }//end explode
