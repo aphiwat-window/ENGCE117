@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="b4p0uh4scSWvqloB1kky">
-    <mxGraphModel dx="2745" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="1331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-495.0000000000001" y="-970" as="targetPoint" />
+            <mxPoint x="-494.0000000000001" y="-859" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-1040" width="130" height="30" as="geometry" />
+          <mxGeometry x="-559.0000000000001" y="-929" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-2" target="-wJQ4NL4KOzzLJpwQmLx-5">
           <mxGeometry relative="1" as="geometry" />
@@ -45,61 +45,53 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-6" value="กำหนดตัวแปร arr input1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-810" width="130" height="40" as="geometry" />
+          <mxGeometry x="-559.0000000000001" y="-699" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-8" target="-wJQ4NL4KOzzLJpwQmLx-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-494.0000000000001" y="-539.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-8" value="กำหนดตัวแปร arr input2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-730" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-10" target="-wJQ4NL4KOzzLJpwQmLx-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-10" value="กำหนดตัวแปร arr input3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-650" width="130" height="40" as="geometry" />
+          <mxGeometry x="-559.0000000000001" y="-619" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-12" target="-wJQ4NL4KOzzLJpwQmLx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-12" value="กำหนดตัวแปร n2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-890" width="130" height="40" as="geometry" />
+          <mxGeometry x="-559.0000000000001" y="-779" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-15" target="-wJQ4NL4KOzzLJpwQmLx-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-15" value="กรอกตัวแปร n" style="rounded=0;whiteSpace=wrap;html=1;shape=label;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-970" width="130" height="40" as="geometry" />
+          <mxGeometry x="-559.0000000000001" y="-859" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-17" target="-wJQ4NL4KOzzLJpwQmLx-20">
+        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-17" target="-wJQ4NL4KOzzLJpwQmLx-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-17" value="กรอกตัวแปร n" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-580" width="130" height="40" as="geometry" />
+          <mxGeometry x="-560.0000000000001" y="-539" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-20" target="-wJQ4NL4KOzzLJpwQmLx-24">
+        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-20" target="-wJQ4NL4KOzzLJpwQmLx-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-20" value="กรอกตัวแปร n2" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-510" width="130" height="40" as="geometry" />
+          <mxGeometry x="-560.0000000000001" y="-378" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-22" target="-wJQ4NL4KOzzLJpwQmLx-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-wJQ4NL4KOzzLJpwQmLx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-495" y="-260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-22" value="กรอกตัวแปร arr input3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-23" value="กรอกตัวแปร arr input2" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-560.0000000000001" y="-300" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-23" target="-wJQ4NL4KOzzLJpwQmLx-22">
+        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-24" target="-wJQ4NL4KOzzLJpwQmLx-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-23" value="กรอกตัวแปร arr input2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-370" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-24" target="-wJQ4NL4KOzzLJpwQmLx-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-24" value="กรอกตัวแปร arr input1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560.0000000000001" y="-440" width="130" height="40" as="geometry" />
+        <mxCell id="-wJQ4NL4KOzzLJpwQmLx-24" value="กรอกตัวแปร arr input1" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-560.0000000000001" y="-460" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-wJQ4NL4KOzzLJpwQmLx-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wJQ4NL4KOzzLJpwQmLx-28" target="-wJQ4NL4KOzzLJpwQmLx-4">
           <mxGeometry relative="1" as="geometry" />
