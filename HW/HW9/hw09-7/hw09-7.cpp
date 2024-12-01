@@ -35,26 +35,24 @@ int main() {
     printf( "\n" ) ;
 
     printf( "Old Array : " ) ;
-    for( int i = 0; i < 5; i++) {
+    for( int i = 0 ; i < 5 ; i++ ) {
         printf( "%d " , input1[i] ) ;
     }//end for arr2
 
     Mix( input1 , input2 , n ) ;
-
-    sorut( input2 , n+5  ) ;
+    sorut( input2 , n + 5  ) ;
 
     printf( "\n" ) ;
     printf( "New Array : " ) ;
-    for( int i = 0; i < n+5 ; i++) {
+    for( int i = 0 ; i < n + 5 ; i++ ) {
         printf( "%d " , input2[i] ) ;
     }//end for arr2
-
     return 0 ;
 }//end main
 
 
 void Mix ( int arr1[] , int arr2[] , int num ) {
-    for ( int i = 0; i < 5; i++) {
+    for ( int i = 0 ; i < 5; i++ ) {
         arr2[num+i] = arr1[i] ;
     }//end for ก็อป arr1 ใส่ arr2
 }//end Mix
