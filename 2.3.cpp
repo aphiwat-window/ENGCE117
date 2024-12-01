@@ -25,8 +25,8 @@ void explode( const char str1[] , const char splitter[] , char str2[][10] , int 
     strcpy( data , str1 ) ;
     char *token = strtok( data , splitter ) ; //ตรวจว่าเจอตัวแบ่งตัวไหน
     while ( token != NULL ) {
-            strcpy( str2[*count] , token ) ; //ก็อปใส่ str2
-            ( *count ) ++ ;
-            token = strtok( NULL , splitter ) ; 
-        }//end แยกคำ
+        strcpy( str2[*count] , token ) ; //ก็อปใส่ str2
+        ( *count ) ++ ;
+        token = strtok( NULL , splitter ) ; 
+    }//end แยกคำ
 }//end explode
