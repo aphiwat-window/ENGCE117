@@ -1,9 +1,104 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="zmVKw1Yn3QFlj3lUQ7tH">
-    <mxGraphModel>
+    <mxGraphModel dx="1267" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lfAc_cLci4eOYNXYxlRv-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-498.0000000000001" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-5" value="ปริ้นค่า arr" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-562.0000000000001" y="230" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-496.9999999999999" y="-260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="-310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-10" target="lfAc_cLci4eOYNXYxlRv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-632" y="-140" />
+              <mxPoint x="-632" y="-300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-10" target="lfAc_cLci4eOYNXYxlRv-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-10" value="รับค่าครบแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-561" y="-180" width="128" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-11" value="&lt;font face=&quot;Sarabun&quot;&gt;END&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-562.0000000000001" y="310" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lfAc_cLci4eOYNXYxlRv-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-497" y="-220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-34" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-492" y="-110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-35" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-572" y="-180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-37" target="lfAc_cLci4eOYNXYxlRv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-37" value="จัด arr จากน้อยไปมาก" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-562" y="150" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-496.0000000000001" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-75" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-561.0000000000001" y="-700" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-77" target="lfAc_cLci4eOYNXYxlRv-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-77" value="กำหนดตัวแปร arr input1 =&amp;nbsp;9 2 6 1 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-626" y="-540" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-496.0000000000001" y="-380.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-79" value="กำหนดตัวแปร arr input2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-561.0000000000001" y="-460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-495" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-83" target="lfAc_cLci4eOYNXYxlRv-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-83" value="กรอกตัวแปร n" style="rounded=0;whiteSpace=wrap;html=1;shape=label;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-561.0000000000001" y="-630" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfAc_cLci4eOYNXYxlRv-85" target="lfAc_cLci4eOYNXYxlRv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-85" value="กรอกตัวแปร n" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-562.0000000000001" y="-380" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-90" value="กรอก arr input2" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-563.0000000000001" y="-260" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfAc_cLci4eOYNXYxlRv-109" value="ปริ้นค่า arr1" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-562.0000000000001" y="-60" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
