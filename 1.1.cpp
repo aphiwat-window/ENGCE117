@@ -19,10 +19,9 @@ int main() {
         printf( "please enter number only." ) ;
     } else {
         for ( int i = 1 ; i <= input ; i++ ) {
-            printf( "[%d] Hello world \n" , i ) ;
+            printf( "[ %d ] Hello world \n" , i ) ;
         }//end for วนรอบ
     }//end if 
     printf( "Output:\n" ) ;
-  
     return 0 ;
 }//end main

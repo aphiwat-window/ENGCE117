@@ -1,15 +1,28 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+    #include <stdio.h>
+    #include <string.h>
+
+    void GetSet( int [], int * ) ;
+
+    int main() {
+     int *data, num ;
+     GetSet( &data, &num ) ;
+     return 0 ;
+    }//end function
+*/
+
 void GetSet( int [], int * ) ;
 
 int main() {
-    int data[500] , n = 0 ;
+    int data[ 500 ] , n = 0 ;
     GetSet( data, &n ) ;
     return 0 ;
 }//end function
 
-void GetSet( int a[], int *e ) {
+void GetSet( int a[] , int *e ) {
     printf( "Enter n : ") ;
     scanf( "%d" , e ) ;
 
@@ -18,8 +31,8 @@ void GetSet( int a[], int *e ) {
         scanf( "%d" , &a[i] ) ;
     }//end for
     
-    //for (int i = 0; i < *e; i++) {
-        //printf( "%d " , a[i] ) ;
-    // }
+    for (int i = 0; i < *e; i++) {
+        printf( "%d " , a[i] ) ;
+    }//end for print a
     
 } //end GetSet

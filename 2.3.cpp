@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <string.h>
 
-void explode( const char str1[] , const char splitter[] , char str2[][10] , int *count ) ;
+void explode( const char str1[] , const char splitter[] , char str2[][10] , int *count ) ; //ที่ const char ไม่ยอมให้เปลี่ยนแปลงค่าใน arr
 
 int main() {
     char out[20][10] ;
     int num = 0 ;
-    explode( "" , "/" , out , &num ) ;//เรียกใช้งาน
+    explode( "" , "/" , out , &num ) ;//เรียกใช้งาน explode และส่งค่าไป
 
     for ( int i = 0 ; i < num ; i++ ) {
        printf( "str2[%d] = \"%s\"\n" , i , out[i] ) ; 
@@ -21,12 +21,12 @@ int main() {
 }//end function
 
 void explode( const char str1[] , const char splitter[] , char str2[][10] , int *count ) {
-    char data[20] ;
-    strcpy( data , str1 ) ;
-    char *token = strtok( data , splitter ) ; //ตรวจว่าเจอตัวแบ่งตัวไหน
-    while ( token != NULL ) {
+    char data[20] ; //สร้าง char ธรรมดา
+    strcpy( data , str1 ) ; //ก็อปมาเพราะ const char ไม่ยอมให้ยุ่งกับตัวแปร
+    char *token = strtok( data , splitter ) ; //ประกาศใช้ strtok ///เริ่มแยกหลังจากตัวแรก //คืนค่าเป็น Poiter
+    while ( token != NULL ) { 
         strcpy( str2[*count] , token ) ; //ก็อปใส่ str2
         ( *count ) ++ ;
-        token = strtok( NULL , splitter ) ; 
+        token = strtok( NULL , splitter ) ; //เริ่มจากจุดที่ประกาศ //มองข้ามคำใน splitter  //มองเ string เป็นชุดเดัียว
     }//end แยกคำ
 }//end explode
