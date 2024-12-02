@@ -1,0 +1,43 @@
+Enter new element of Array : 3
+1 2 3
+4 5 6
+7 8 9
+Show zero (1=Left, -1=Right) :
+1
+
+Output:
+1 2 3
+4 5 6
+7 8 9
+Left Matrix =
+0 0 3
+0 5 6
+7 8 9
+
+
+
+----------------------------------------
+
+
+Enter new element of Array : 4
+1 2 3 4
+5 6 7 8
+9 1 5 6
+7 8 9 6
+Show zero (1=Left, -1=Right) :
+-1
+
+Output:
+1 2 3 4
+5 6 7 8
+9 1 5 6
+7 8 9 6
+Right Matrix =
+1 0 0 0
+5 6 0 0
+9 1 5 0
+7 8 9 6
+
+
+
+
