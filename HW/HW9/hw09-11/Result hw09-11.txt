@@ -1,0 +1,29 @@
+Array1 Value : 
+2 5
+Input :
+2 5 3 8 3
+2 5 3 1 1
+Array2 Value :
+5 2
+Input :
+2 3
+4 4
+1 2
+1 1
+2 3
+
+Output:
+Array1 :
+2 5 3 8 3
+2 5 3 1 1
+
+Array2 :
+2 3
+4 4
+1 2
+1 1
+2 3
+
+Matrix1 x Matrix2 is :
+41 49
+30 36
