@@ -1,0 +1,39 @@
+Enter 1 character : 
+h
+Enter 1 character : 
+e
+Enter 1 character :
+l
+Enter 1 character :
+l
+Enter 1 character :
+o
+Enter 1 character :
+y
+
+Output:
+String =  h e l l o
+
+--------------------------------
+
+Enter 1 character : 
+u
+Enter 1 character :
+i
+Enter 1 character :
+o
+Enter 1 character :
+p
+Enter 1 character :
+[
+Enter 1 character :
+l
+Enter 1 character :
+k
+Enter 1 character :
+j
+Enter 1 character :
+Y
+
+Output:
+String =  u i o p [ l k j
