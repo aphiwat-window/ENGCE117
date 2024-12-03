@@ -1,0 +1,13 @@
+Enter name : 
+Apiwat Sakwong
+
+Output
+Name : Apiwat Sakwong
+
+-----------------------------
+
+Enter name : 
+Visual Studio Code
+
+Output
+Name : Visual Studio Code
