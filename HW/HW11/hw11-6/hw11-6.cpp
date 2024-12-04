@@ -1,44 +1,51 @@
 /*
-    เมื่อผู้ใช้กรอกตัวเลข ให้โปรแกรมแสดงผลรวมของชุดอนุกรม ที่มีตัวเลข 2 ลำดับก่อนหน้าบวกกัน (อนุกรมฟีโบนัชชี)
+    เมื่อผู้ใช้กรอกตัวเลข ให้โปรแกรมแสดงผลรวมของชุดอนุกรม ของการหาค่า Factorial โดยมีสูตรในการหาค่า n! = n x (n-1)!
+    (! = factorial)
     (จงเขียนในรูปแบบของ Recursion Function)
+    
+    Test case:
+        5
+    Output:
+        5! = 5 x 4 x 3 x 2 x 1
+        5! = 120
 
     Test case:
         8
     Output:
-        Series = 1 + 1 + 2 + 3 + 5 + 8 + 13 + 21
-        Sum = 54
+        8! = 8 x 7 x 6 x 5 x 4 x 3 x 2 x 1
+        8! = 40320
 
 */
 
 #include <stdio.h>
 
-void calculator (int input , int num , int sum , int before , int after ) ;
+void calculator ( int input , int num , int sum ) ;
+void PRINT ( int &cal , int &sum ) ;
 
 int main() {
 
-    int input , n = 0, sum = 1 , before = 1, after = 0 ;
+    int input , n = 0 , sum = 1 ;
     printf( "Enter value :\n" ) ;
     scanf( "%d" , &input ) ;
-    calculator ( input , n , sum , before , after ) ;
-    
+    calculator (  input , n , sum ) ;
     return 0 ;
 }//end main
 
-void calculator ( int input , int num , int sum , int before , int after ) {
-    printf( "Series = : " ) ;
-    if ( input == 1 ) {
-        printf( "%d" , sum ) ;
-        num += sum ;
-    } else {
-        for ( int i = 0 ; i < input ; i++ ) {
-            sum = before + after ;
-            printf( "%d" , sum ) ;
-            printf( i + 1 != input ? " + " : "" ) ; //ใช้ตรวจเงื่อนไขการวาง +
-            before = after ;
-            after = sum ;
-            num += sum ;
-        }//end for แสดงอนุกรมฟีโบนัชชี
-    }//end if ถ้าเป็น 1
-    printf( "\nSum = %d" , num ) ;
+void calculator ( int input , int num , int sum ) {
+    int cal = input ;
+    printf( "Output:\n" ) ;
+    printf( "%d! = " , input ) ;
+    while ( cal != 0) {
+        PRINT( cal , sum ) ;
+        cal = cal - 1 ;
+    }//end while 
+    printf( "\n%d! = %d" , input , sum ) ;
 }//end calculator
 
+void PRINT ( int &cal , int &sum ) {
+    printf( "%d" , cal ) ;
+    if (cal != 1) {
+        printf( " x " ) ;
+        sum *= cal ;
+    }//end if 
+}//end PRINT
