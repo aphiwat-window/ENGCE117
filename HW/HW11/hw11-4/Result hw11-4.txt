@@ -1,0 +1,7 @@
+Enter : 3
+Output:
+Sum = 12
+---------------------
+Enter : 6
+Output:
+Sum = 888
