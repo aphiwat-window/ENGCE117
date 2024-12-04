@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="0C_bKTdmwzQhd5P1o2eu">
-    <mxGraphModel>
+    <mxGraphModel dx="2076" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-589.9714285714286" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-655.0000000000001" y="-1020" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-590" y="-820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-5" value="กำหนดตัวแปร sum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="-890" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-7" target="eNwGdyYsZMRAwyxvdJJL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-7" value="กรอกค่าตัวแปร data" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="-820" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-9" target="eNwGdyYsZMRAwyxvdJJL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-9" value="ปริ้นค่า sum" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="-650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-297.5" y="-880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-11" value="Start cal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-357.5" y="-970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-13" target="eNwGdyYsZMRAwyxvdJJL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-13" value="กำหนดตัวแปร data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="-960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-14" value="End Print" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-357.5" y="-590" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-15" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-655.0000000000001" y="-565" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-17" target="eNwGdyYsZMRAwyxvdJJL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-17" value="กำหนดตัวแปร result" style="shape=label;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-880" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-19" target="eNwGdyYsZMRAwyxvdJJL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-19" value="คำนวนหาเลขอนุกรม" style="shape=label;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-740" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-21" target="eNwGdyYsZMRAwyxvdJJL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-21" value="กำหนดตัวแปร cal" style="shape=label;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-810" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-23" target="eNwGdyYsZMRAwyxvdJJL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-23" value="ส่งค่าออกที่ตัวแปร Sum" style="shape=label;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-670" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNwGdyYsZMRAwyxvdJJL-25" target="eNwGdyYsZMRAwyxvdJJL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eNwGdyYsZMRAwyxvdJJL-25" value="cal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-750" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
