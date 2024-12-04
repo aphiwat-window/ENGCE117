@@ -1,0 +1,11 @@
+Enter name A : Yorn
+Enter age : 31
+Enter name B : Thane
+Enter age : 20
+Output:
+** RESULT **
+Name : Yorn (31)
+Name : Thane (20)
+** SWAP AGET **
+Name : Yorn (20)
+Name : Thane (31)
