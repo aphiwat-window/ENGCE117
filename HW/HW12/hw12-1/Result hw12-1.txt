@@ -1,0 +1,19 @@
+Person A
+Enter name : Mai
+Enter Age : 24
+Enter Sex : M
+Enter Score : 99.99
+Person B
+Enter name : Mon
+Enter Age : 21
+Enter Sex : F
+Enter Score : 87.60
+Output:
+--| Person A Information |--
+Name : Mai (M)
+Age : 24 years old
+Score : 99.99 points
+--| Person B Information |--
+Name : Mon (F)
+Age : 21 years old
+Score : 87.60 points
