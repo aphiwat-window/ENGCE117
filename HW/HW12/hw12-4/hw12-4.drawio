@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="yGX9Q45bV8xBmXTqQoPw">
-    <mxGraphModel dx="1718" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3827" dy="2714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,62 +8,62 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-2" value="Start stuck User" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-1065" width="120" height="50" as="geometry" />
+          <mxGeometry x="-230" y="-960" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-4" target="rk1wuVJoi12lfkLTWVf_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-4" value="กำหนดค่า Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-975" width="120" height="40" as="geometry" />
+          <mxGeometry x="-230" y="-870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-120" y="-812.5" as="targetPoint" />
+            <mxPoint x="-170" y="-707.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-6" value="กำหนดค่า EXP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-895" width="120" height="40" as="geometry" />
+          <mxGeometry x="-230" y="-790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-7" value="End stuck User" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-810" width="120" height="50" as="geometry" />
+          <mxGeometry x="-230" y="-705" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-655" y="-616.25" as="targetPoint" />
+            <mxPoint x="-445" y="-780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-9" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720.0000000000001" y="-676.25" width="130" height="30" as="geometry" />
+          <mxGeometry x="-510.0000000000001" y="-840" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-11" target="rk1wuVJoi12lfkLTWVf_-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-11" value="stuck User" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-715" y="-148.75" width="120" height="50" as="geometry" />
+          <mxGeometry x="-505" y="-312.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-15" target="rk1wuVJoi12lfkLTWVf_-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-15" value="&amp;nbsp;stuck User รับค่า name" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-772.5" y="-23.75" width="235" height="40" as="geometry" />
+          <mxGeometry x="-562.5" y="-187.5" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-17" target="rk1wuVJoi12lfkLTWVf_-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-17" value="&amp;nbsp;stuck User รับค่า EXP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-772.5" y="66.25" width="235" height="40" as="geometry" />
+          <mxGeometry x="-562.5" y="-97.5" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-19" target="rk1wuVJoi12lfkLTWVf_-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-665" y="-73.75" width="20" height="20" as="geometry" />
+          <mxGeometry x="-455" y="-237.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-22" target="rk1wuVJoi12lfkLTWVf_-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-830" y="250" />
-              <mxPoint x="-830" y="-64" />
+              <mxPoint x="-620" y="86.25" />
+              <mxPoint x="-620" y="-227.75" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-22" value="กรอก -1 หรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-711" y="215" width="112" height="70" as="geometry" />
+          <mxGeometry x="-501" y="51.25" width="112" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-24" target="rk1wuVJoi12lfkLTWVf_-66">
           <mxGeometry relative="1" as="geometry" />
@@ -81,31 +81,31 @@
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-655" y="-183.75" as="sourcePoint" />
-            <mxPoint x="-655" y="-148.75" as="targetPoint" />
+            <mxPoint x="-445" y="-347.5" as="sourcePoint" />
+            <mxPoint x="-445" y="-312.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-34" target="rk1wuVJoi12lfkLTWVf_-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-34" value="กำหนดตัวแปร MostName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-331.25" width="130" height="50" as="geometry" />
+          <mxGeometry x="-510" y="-495" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-37" value="กำหนดตัวแปร arr count" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-236.25" width="130" height="50" as="geometry" />
+          <mxGeometry x="-510" y="-400" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-39" target="rk1wuVJoi12lfkLTWVf_-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-39" value="กำหนดตัวแปร MostExp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-426.25" width="130" height="50" as="geometry" />
+          <mxGeometry x="-510" y="-590" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-44" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720.0000000000001" y="727.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="-510.0000000000001" y="563.75" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="rk1wuVJoi12lfkLTWVf_-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-655" y="667.5" as="sourcePoint" />
+            <mxPoint x="-445" y="503.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-58" target="rk1wuVJoi12lfkLTWVf_-140">
@@ -392,19 +392,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-182" value="Start sort" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-715" y="140" width="120" height="50" as="geometry" />
+          <mxGeometry x="-505" y="-23.75" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-307" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-196" target="rk1wuVJoi12lfkLTWVf_-198">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-196" value="ปริ้นค่า x.. และ count" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-772.5" y="325" width="235" height="40" as="geometry" />
+          <mxGeometry x="-562.5" y="161.25" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-308" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-198" target="rk1wuVJoi12lfkLTWVf_-305">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-198" value="ปริ้นค่า MostName" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-772.5" y="400" width="235" height="40" as="geometry" />
+          <mxGeometry x="-562.5" y="236.25" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-199" target="rk1wuVJoi12lfkLTWVf_-210">
           <mxGeometry relative="1" as="geometry" />
@@ -428,17 +428,17 @@
           <mxGeometry x="509.18000000000006" y="607.5" width="133.33" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-206" value="กำหนดตัวแปร LessName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-521.25" width="130" height="50" as="geometry" />
+          <mxGeometry x="-510" y="-685" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="rk1wuVJoi12lfkLTWVf_-208" target="rk1wuVJoi12lfkLTWVf_-206" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-208" value="กำหนดตัวแปร LesstExp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-616.25" width="130" height="50" as="geometry" />
+          <mxGeometry x="-510" y="-780" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="rk1wuVJoi12lfkLTWVf_-206" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-655" y="-426" as="targetPoint" />
+            <mxPoint x="-445" y="-589.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk1wuVJoi12lfkLTWVf_-210" target="rk1wuVJoi12lfkLTWVf_-212">
@@ -662,20 +662,20 @@
           <mxGeometry x="531.3299999999999" y="530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-305" value="ปริ้นค่า MostExp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-772.5" y="480" width="235" height="40" as="geometry" />
+          <mxGeometry x="-562.5" y="316.25" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="rk1wuVJoi12lfkLTWVf_-310" target="rk1wuVJoi12lfkLTWVf_-311" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-310" value="ปริ้นค่า LessName" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-772.5" y="548" width="235" height="40" as="geometry" />
+          <mxGeometry x="-562.5" y="384.25" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-311" value="ปริ้นค่า LessExp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-772.5" y="628" width="235" height="40" as="geometry" />
+          <mxGeometry x="-562.5" y="464.25" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1wuVJoi12lfkLTWVf_-312" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="rk1wuVJoi12lfkLTWVf_-310" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-655" y="513" as="sourcePoint" />
+            <mxPoint x="-445" y="349.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
