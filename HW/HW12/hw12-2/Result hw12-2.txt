@@ -1,0 +1,15 @@
+Student A
+Enter name : Payna
+Enter Score : 77.77
+Student B
+Enter name : Zanis
+Enter Score : 88.88
+Student C
+Enter name : Lubu
+Enter Score : 66.66
+Student D
+Enter name : Krixi
+Enter Score : 99.99
+Output:
+Krixi Zanis Payna Lubu
+99.99 88.88 77.77 66.66
