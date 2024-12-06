@@ -1,0 +1,68 @@
+Employee [1] Name : Aey
+Exp : 9956
+------------------------
+Employee [2] Name : J
+Exp : 4900
+------------------------
+Employee [3] Name : A
+Exp : 4560
+------------------------
+Employee [4] Name : Orio
+Exp : 200
+------------------------
+Employee [5] Name : Vistra
+Exp : 1656
+------------------------
+Employee [6] Name : Oh
+Exp : 2300
+------------------------
+Employee [7] Name : -1
+ Output:
+**** Salary Result ****
+x1.0 count 1
+x1.2 count 1
+x1.4 count 1
+x1.6 count 0
+x1.8 count 2
+x2.0 count 1
+
+The Employee get x2.0 is Aey
+The Employee get x1.0 is Orio
+
+
+-----------------------------
+
+
+Employee [1] Name : Atom
+Exp : 2500
+------------------------
+Employee [2] Name : Aom
+Exp : 3230
+------------------------
+Employee [3] Name : Aim
+Exp : 4560
+------------------------
+Employee [4] Name : Jom
+Exp : 5505
+------------------------
+Employee [5] Name : On
+Exp : 950
+------------------------
+Employee [6] Name : Oom
+Exp : 3500
+------------------------
+Employee [7] Name : Ky
+Exp : 2600
+------------------------
+Employee [8] Name : -1
+ Output:
+**** Salary Result ****
+x1.0 count 1
+x1.2 count 0
+x1.4 count 2
+x1.6 count 2
+x1.8 count 1
+x2.0 count 1
+
+The Employee get x2.0 is Jom
+The Employee get x1.0 is On
