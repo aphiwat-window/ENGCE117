@@ -1,0 +1,37 @@
+Room A
+Name [1] : John
+Height (cm) : 176.6
+------------------------
+Name [2] : Job
+Height (cm) : 177.5
+------------------------
+Name [3] : Aim
+Height (cm) : 149.8
+------------------------
+Name [4] : Mon
+Height (cm) : 158.9
+------------------------
+Name [5] : Ammy
+Height (cm) : 151.0
+------------------------
+Name [6] : A
+Height (cm) : 169.7
+------------------------
+Name [7] : -1
+
+Room B
+Name [1] : Komsan
+Height (cm) : 176.1
+------------------------
+Name [2] : Samart
+Height (cm) : 165.4
+------------------------
+Name [3] : Sunu
+Height (cm) : 168.1
+------------------------
+Name [4] : -1
+
+Output:
+Room A -> Aim Ammy Mon A John Job
+Room B -> Samart Sunu Komsan
+School -> Job John Komsan A Sunu Samart Mon Ammy Aim
