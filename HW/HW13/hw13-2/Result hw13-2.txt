@@ -1,0 +1,8 @@
+Enter : Hello world
+Output : dlrow olleH
+-----------------------
+Enter : RMUTl
+Output : lTUMR
+-----------------------
+Enter : Orio
+Output : oirO
