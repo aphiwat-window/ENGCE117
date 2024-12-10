@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="8SazFHb4lPqUfUG7CR4b">
-    <mxGraphModel dx="1603" dy="1515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3108" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-29" value="ครบทุกตัวแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="-410" width="128" height="80" as="geometry" />
+          <mxGeometry x="-422" y="370" width="128" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S6nSc5eygMtevFcIqzhv-31" target="S6nSc5eygMtevFcIqzhv-33">
           <mxGeometry relative="1" as="geometry" />
@@ -153,14 +153,22 @@
         </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="S6nSc5eygMtevFcIqzhv-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="282" y="-460" as="sourcePoint" />
+            <mxPoint x="-358" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S6nSc5eygMtevFcIqzhv-48" value="Average += stack age" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-100" width="160" height="40" as="geometry" />
+        <mxCell id="S6nSc5eygMtevFcIqzhv-48" value="Average += stack salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-439" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S6nSc5eygMtevFcIqzhv-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S6nSc5eygMtevFcIqzhv-50" target="S6nSc5eygMtevFcIqzhv-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-740" y="410" />
+              <mxPoint x="-740" y="-655" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-50" value="เพิ่มรอบ stuck&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-390" width="160" height="40" as="geometry" />
+          <mxGeometry x="-630" y="390" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="S6nSc5eygMtevFcIqzhv-53">
           <mxGeometry relative="1" as="geometry">
@@ -213,10 +221,10 @@
           <mxGeometry x="390" y="110" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-65" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="292" y="-340" width="30" height="30" as="geometry" />
+          <mxGeometry x="-348" y="440" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-66" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="202" y="-410" width="30" height="30" as="geometry" />
+          <mxGeometry x="-438" y="370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-67" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="-70" width="30" height="30" as="geometry" />
@@ -277,8 +285,11 @@
         <mxCell id="S6nSc5eygMtevFcIqzhv-94" value="แปลงเป็นจำนวนเต็ม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-439" y="130" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="S6nSc5eygMtevFcIqzhv-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S6nSc5eygMtevFcIqzhv-96" target="S6nSc5eygMtevFcIqzhv-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="S6nSc5eygMtevFcIqzhv-96" value="เก็บไว้ใน stuck salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-438.5" y="200" width="160" height="40" as="geometry" />
+          <mxGeometry x="-438.5" y="210" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
