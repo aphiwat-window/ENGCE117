@@ -21,7 +21,7 @@ int main() {
 }//end function
 
 int *GetSet( int *namae ) {
-    int elements [100 ] ;
+    int elements [ 100 ] ;
 
     printf( "Enter the number of elements: ") ;
     scanf( "%d" , namae ) ;

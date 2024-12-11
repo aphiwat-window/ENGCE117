@@ -22,7 +22,7 @@ int main() {
     return 0 ;
 }//end function
 
-void GetMatrix( int value[][ 5 ] , int *row , int *col ) {
+void GetMatrix( int value[ ][ 5 ] , int *row , int *col ) {
     char ch ;
     int count = 0 ;
 

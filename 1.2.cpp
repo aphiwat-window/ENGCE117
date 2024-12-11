@@ -14,7 +14,7 @@
     }//end function
 */
 
-void GetSet( int [], int * ) ;
+void GetSet( int a[], int *e ) ;
 
 int main() {
     int data[ 500 ] , n = 0 ;
@@ -31,8 +31,8 @@ void GetSet( int a[] , int *e ) {
         scanf( "%d" , &a[i] ) ;
     }//end for
     
-    for (int i = 0; i < *e; i++) {
-        printf( "%d " , a[i] ) ;
+    for ( int i = 0 ; i < *e ; i++ ) {
+        printf( "%d " , a[ i ] ) ;
     }//end for print a
     
 } //end GetSet

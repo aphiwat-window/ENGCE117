@@ -27,8 +27,8 @@ int main() {
 
 void explode( char str1[] , char splitter[] , char str2[][10] , int *count ) {
     char *token = strtok( str1 , splitter ) ; //ประกาศใช้ strtok ///เริ่มแยกหลังจากตัวแรก //คืนค่าเป็น Poiter
-        while (token != NULL) {
-            strcpy( str2[*count] , token ) ; //ก็อปใส่ str2
+        while ( token != NULL ) {
+            strcpy( str2[ *count ] , token ) ; //ก็อปใส่ str2
             ( *count ) ++ ;
             token = strtok( NULL , splitter ) ;  //เริ่มจากจุดที่ประกาศ //มองข้ามคำใน splitter  //มองเ string เป็นชุดเดัียว
         }//end แยกคำ
