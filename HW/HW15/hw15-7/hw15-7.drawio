@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="mw299rPhLPCByi8XiqZ0">
-    <mxGraphModel dx="1753" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1211" dy="1299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,13 +62,11 @@
             <mxPoint x="-358.5" y="-285" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAZVMAnwfbZu5u0q_cqS-20" value="เอาข้อความใน&amp;nbsp;&amp;nbsp;a15-6.txt&amp;nbsp; ใส่ stuck&amp;nbsp;Birthday txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-438.5" y="-245" width="160" height="40" as="geometry" />
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-20" target="AAZVMAnwfbZu5u0q_cqS-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AAZVMAnwfbZu5u0q_cqS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AAZVMAnwfbZu5u0q_cqS-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-359.9999999999998" y="-205" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-20" value="เอาข้อความใน&amp;nbsp;&amp;nbsp;a15-6.txt&amp;nbsp; ใส่ stuck&amp;nbsp;Birthday txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="-250" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-26" target="AAZVMAnwfbZu5u0q_cqS-32">
           <mxGeometry relative="1" as="geometry" />
@@ -81,12 +79,12 @@
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-359.5" y="355" as="sourcePoint" />
-            <mxPoint x="-359.4655172413793" y="405.0215517241379" as="targetPoint" />
+            <mxPoint x="321" y="380" as="sourcePoint" />
+            <mxPoint x="321.0344827586207" y="430.0215517241379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-30" value="Average += stack salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440.5" y="315" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-32" value="เพิ่มรอบ stuck&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="505" width="160" height="40" as="geometry" />
@@ -97,49 +95,29 @@
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-34" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-438" y="485" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AAZVMAnwfbZu5u0q_cqS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-39" target="AAZVMAnwfbZu5u0q_cqS-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-481.5" y="95" />
-              <mxPoint x="-481.5" y="-160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-39" target="AAZVMAnwfbZu5u0q_cqS-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-39" value="stuck&amp;nbsp;salary txt&lt;div&gt;วนครบแล้วหรือไม่&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420.5" y="55" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="AAZVMAnwfbZu5u0q_cqS-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-41" target="AAZVMAnwfbZu5u0q_cqS-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AAZVMAnwfbZu5u0q_cqS-41" value="stuck&amp;nbsp;salary&lt;div&gt;มี , หรือไม่&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-419.5" y="-115" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-43" target="AAZVMAnwfbZu5u0q_cqS-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-43" value="ก็อปลง convert&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="-15" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AAZVMAnwfbZu5u0q_cqS-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-45" target="AAZVMAnwfbZu5u0q_cqS-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AAZVMAnwfbZu5u0q_cqS-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-375" y="-175" width="30" height="30" as="geometry" />
+          <mxGeometry x="240.5" y="10" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-47" target="AAZVMAnwfbZu5u0q_cqS-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-47" value="แปลงเป็นืทศนิยม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440.5" y="165" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="190" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-49" target="AAZVMAnwfbZu5u0q_cqS-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-49" value="เก็บไว้ใน stuck salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="245" width="160" height="40" as="geometry" />
+          <mxGeometry x="240.5" y="270" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-51" target="AAZVMAnwfbZu5u0q_cqS-53">
           <mxGeometry relative="1" as="geometry" />
@@ -244,6 +222,9 @@
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-80" value="เว้นบรรทัดแรก" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-449.25" y="-675" width="178.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-84" value="แยก Birthday txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="-170" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
