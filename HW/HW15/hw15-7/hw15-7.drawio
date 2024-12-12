@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="mw299rPhLPCByi8XiqZ0">
-    <mxGraphModel dx="1151" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1211" dy="1299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,8 +229,20 @@
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-84" value="แยก Birthday txt ทีละตัว" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-438" y="-170" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-86" target="AAZVMAnwfbZu5u0q_cqS-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-86" target="AAZVMAnwfbZu5u0q_cqS-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-86" value="Birthday txt&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;มี - หรือไม่&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-423" y="-100" width="128" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-88" value="เก็บไว้ใน convert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-90" value="ขยับ convert ไป 1 ช่อง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-438.5" y="20" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
