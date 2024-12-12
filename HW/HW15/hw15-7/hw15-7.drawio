@@ -223,8 +223,11 @@
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-80" value="เว้นบรรทัดแรก" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-449.25" y="-675" width="178.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AAZVMAnwfbZu5u0q_cqS-84" value="แยก Birthday txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-84" value="แยก Birthday txt ทีละตัว" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-438" y="-170" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-86" value="เปิดได้หรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-445" width="128" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
