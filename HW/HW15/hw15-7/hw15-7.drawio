@@ -75,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-26" value="ครบทุกตัวแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-422" y="485" width="128" height="80" as="geometry" />
+          <mxGeometry x="488" y="500" width="128" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -87,13 +87,13 @@
           <mxGeometry x="240" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-32" value="เพิ่มรอบ stuck&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="505" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="520" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-33" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-348" y="555" width="30" height="30" as="geometry" />
+          <mxGeometry x="562" y="570" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-34" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="485" width="30" height="30" as="geometry" />
+          <mxGeometry x="472" y="500" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-39" target="AAZVMAnwfbZu5u0q_cqS-47">
           <mxGeometry relative="1" as="geometry" />
@@ -123,34 +123,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-51" value="Average /= จำนวนทั้งหมด" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="605" width="160" height="40" as="geometry" />
+          <mxGeometry x="472" y="620" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-53" target="AAZVMAnwfbZu5u0q_cqS-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-53" value="start Most" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-418.5" y="679.5" width="120" height="65" as="geometry" />
+          <mxGeometry x="491.5" y="694.5" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-55" target="AAZVMAnwfbZu5u0q_cqS-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-55" value="ส่ง&amp;nbsp; Average&amp;nbsp;&amp;nbsp;ไปยัง&amp;nbsp;&amp;nbsp;decimal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-418" y="775" width="120" height="45" as="geometry" />
+          <mxGeometry x="492" y="790" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-57" target="AAZVMAnwfbZu5u0q_cqS-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-57" value="decimal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-418" y="860" width="120" height="65" as="geometry" />
+          <mxGeometry x="492" y="875" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-58" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-423.0000000000001" y="1010" width="130" height="30" as="geometry" />
+          <mxGeometry x="486.9999999999999" y="1025" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-60" target="AAZVMAnwfbZu5u0q_cqS-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-378" y="950" width="40" height="40" as="geometry" />
+          <mxGeometry x="532" y="965" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-62" target="AAZVMAnwfbZu5u0q_cqS-64">
           <mxGeometry relative="1" as="geometry" />
@@ -238,11 +238,37 @@
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-86" value="Birthday txt&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;มี - หรือไม่&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-423" y="-100" width="128" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-88" target="AAZVMAnwfbZu5u0q_cqS-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="-60" />
+              <mxPoint x="-70" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-88" value="เก็บไว้ใน convert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="-80" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-90" target="AAZVMAnwfbZu5u0q_cqS-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-90" value="ขยับ convert ไป 1 ช่อง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-438.5" y="20" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-92" target="AAZVMAnwfbZu5u0q_cqS-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-92" value="แปลง convert เป็นจำนวนเต็ม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-94" target="AAZVMAnwfbZu5u0q_cqS-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-373" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAZVMAnwfbZu5u0q_cqS-98" value="เก็บไว้ใน stuck Birthdayint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="250" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
