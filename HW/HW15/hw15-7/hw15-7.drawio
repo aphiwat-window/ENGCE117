@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="mw299rPhLPCByi8XiqZ0">
-    <mxGraphModel dx="1346" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,6 +237,9 @@
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-117" value="start convert" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-418" y="670" width="120" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AAZVMAnwfbZu5u0q_cqS-118" target="0AfvxG6xlVX3FID8-RaT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-118" value="แปลง Birthdayint เป็น พศ&lt;div&gt;(543)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="-895" width="160" height="40" as="geometry" />
         </mxCell>
@@ -245,6 +248,36 @@
         </mxCell>
         <mxCell id="AAZVMAnwfbZu5u0q_cqS-120" value="กำหนดตัวแปร arr&amp;nbsp;current&lt;div&gt;2561 , 6 , 21&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="292.5" y="-980" width="175" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0AfvxG6xlVX3FID8-RaT-2" target="0AfvxG6xlVX3FID8-RaT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-2" value="2561 - ปีที่แปลง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-825" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0AfvxG6xlVX3FID8-RaT-6" target="0AfvxG6xlVX3FID8-RaT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-6" value="6 - เดือนที่แปลง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-755" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0AfvxG6xlVX3FID8-RaT-8" target="0AfvxG6xlVX3FID8-RaT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-8" value="ถ้าเดือนเกิดมากกว่าหรือเท่ากับเดือนปัจจุบัน" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="-697.5" width="174" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0AfvxG6xlVX3FID8-RaT-10" target="0AfvxG6xlVX3FID8-RaT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-10" value="เพิ่มเดือนไป 12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-665" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-12" value="ลดปีลง 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-595" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-14" value="ถึงเดือนเกิดแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-510" width="128" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
