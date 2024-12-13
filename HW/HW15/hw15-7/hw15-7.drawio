@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="mw299rPhLPCByi8XiqZ0">
-    <mxGraphModel dx="1947" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2339" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,9 +378,6 @@
         <mxCell id="0AfvxG6xlVX3FID8-RaT-55" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="-480" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0AfvxG6xlVX3FID8-RaT-56" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-275" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="0AfvxG6xlVX3FID8-RaT-57" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="-90" width="30" height="30" as="geometry" />
         </mxCell>
@@ -409,8 +406,14 @@
         <mxCell id="0AfvxG6xlVX3FID8-RaT-68" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="473" y="40" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0AfvxG6xlVX3FID8-RaT-69" target="0AfvxG6xlVX3FID8-RaT-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0AfvxG6xlVX3FID8-RaT-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="364.5" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0AfvxG6xlVX3FID8-RaT-72" value="เก็บค่าไว้ใน Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299.5" y="310" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
