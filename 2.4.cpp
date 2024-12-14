@@ -1,15 +1,15 @@
 #include <stdio.h>
 #include <string.h>
 
-void explode( char str1[] , char splitter[] , char str2[][10] , int *count ) ;
+void explode( char str1[] , char splitter[] , char str2[][ 10 ] , int *count ) ;
 
 int main() {
-    char in[100] , out[100][10] , splitter[100] ;
+    char in[ 100 ] , out[ 100 ][ 10 ] , splitter[ 100 ] ;
     int num = 0 ;
     printf( "Enter text : " ) ;
     fgets( in , sizeof( in ) , stdin ) ;  //รับค่า //ขนาดของ in
     printf( "Enter splitter : " ) ;
-    fgets( splitter , sizeof( splitter ) , stdin ) ;  //รับค่า
+    fgets( splitter , sizeof( splitter ) , stdin ) ;  //รับค่า splitter
     in[ strcspn( in , "\n" ) ] = '\0' ; //ลบ \n แล้วเปลี่ยนเป็น \0  \0 = จบบรรทัด
 
     explode( in , splitter , out , &num) ; //เรียกใช้งาน explode

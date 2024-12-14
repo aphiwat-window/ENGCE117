@@ -20,17 +20,19 @@ int main() {
 #include <stdio.h>
 #include <string.h>
 
-int reverse( char str1[] , char str2[] ) ;
+int reverse( char str1[] , char str2[] ) ; //fix
 
 int main() {
-    char text[ 50 ] = "I Love You" ;
-    char out[ 50 ] ;
+    char text[ 50 ] = "I Love You" ; //fix
+    char out[ 50 ] ; //fix
     printf( "Input\n" ) ;
     fgets( text , sizeof( text ) , stdin ) ;  //รับค่า 
     text[ strcspn( text , "\n" ) ] = '\0' ;  //ลบ \n เป็น \0(หรือ Endnewline)
-    reverse( text , out ) ;
+
+    reverse( text , out ) ; //fix
     printf( "Output\n" ) ;
     printf( "%s" , out ) ;
+
     return 0 ;
 }//end function
 

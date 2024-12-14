@@ -11,9 +11,7 @@
 #include <stdio.h>
 
 int main() {
-
     int input = 0 ;
-
     printf( "Enter start : " ) ;    
     if ( scanf( "%d" , &input ) != 1 ) {
         printf( "please enter number only." ) ;

@@ -16,7 +16,9 @@ int GetSet( int *arr[] ) ;
 
 int main() {
     int *data[ 100 ] , num ;
+
     num = GetSet( data ) ;
+    printf( "%p" , data ) ;
     return 0 ;
 }//end function
 
