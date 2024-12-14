@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="-OHtlgGl6GRk3NAxg_4F">
-    <mxGraphModel dx="2076" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,10 +176,16 @@
         <mxCell id="59oR__EmF50malT1DPrW-48" value="แปลงเป็นตัวเลข" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-345" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-50" target="59oR__EmF50malT1DPrW-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-50" value="เก็บไว้ใน Num" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="-345" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-52" target="59oR__EmF50malT1DPrW-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-52" target="59oR__EmF50malT1DPrW-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-52" value="เป็น เว้นวรรค Tab หรือ Enter หรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -200,10 +206,16 @@
         <mxCell id="59oR__EmF50malT1DPrW-56" value="เพิ่ม Row" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-60" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-58" target="59oR__EmF50malT1DPrW-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-58" value="Rst COl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="-60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-61" target="59oR__EmF50malT1DPrW-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-61" target="59oR__EmF50malT1DPrW-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-61" value="Num ไม่ใช่ 0&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -215,6 +227,9 @@
         <mxCell id="59oR__EmF50malT1DPrW-63" value="เก็บไว่ใน Matrix 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="39.75" y="120" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-65" target="59oR__EmF50malT1DPrW-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-65" value="เพิ่ม COl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="160" height="40" as="geometry" />
         </mxCell>
@@ -222,7 +237,70 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-140.25" y="-570" width="40" height="40" as="geometry" />
+          <mxGeometry x="-135.25" y="-570" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-72" target="59oR__EmF50malT1DPrW-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-270" y="350" />
+              <mxPoint x="-270" y="-555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-72" value="อ่านครบแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-171.43" y="310" width="102.86" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-74" target="59oR__EmF50malT1DPrW-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-74" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-77" target="59oR__EmF50malT1DPrW-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-80" target="59oR__EmF50malT1DPrW-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-55" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-81" target="59oR__EmF50malT1DPrW-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-81" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-90" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-91" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-92" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-93" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-68.57" y="-210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-94" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-68.82" y="-70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-95" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-96" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70.25" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-97" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="180" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
