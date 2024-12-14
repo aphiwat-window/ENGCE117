@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="-OHtlgGl6GRk3NAxg_4F">
-    <mxGraphModel dx="2587" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5018" dy="3360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,6 +247,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-72" target="59oR__EmF50malT1DPrW-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-72" value="อ่านครบแล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-171.43" y="310" width="102.86" height="80" as="geometry" />
         </mxCell>
@@ -301,6 +304,21 @@
         </mxCell>
         <mxCell id="59oR__EmF50malT1DPrW-97" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-120" y="180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-102" target="59oR__EmF50malT1DPrW-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-102" value="เก็บไว่ใน Matrix 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200.25" y="430" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59oR__EmF50malT1DPrW-103" target="59oR__EmF50malT1DPrW-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-103" value="เพิ่ม COl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200.25" y="510" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59oR__EmF50malT1DPrW-106" value="End scan" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-180.25" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
