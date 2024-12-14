@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="3hnJuUMj2agy7JwQTxFQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1892" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-680.87" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745.8700000000001" y="-1010" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-4" target="kPVf_pZlVBaObOiWHL7V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-4" value="กำหนดตัวแปร&amp;nbsp;BinarySearch&lt;div&gt;1, 2, 4, 5, 8, 9&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-755.87" y="-940" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-6" target="kPVf_pZlVBaObOiWHL7V-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-6" value="SequentialSearch&lt;div&gt;(RealData, 6, 8)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-748.37" y="-870" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-8" target="kPVf_pZlVBaObOiWHL7V-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-8" value="ปริ้นค่า BinarySearch" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-774" y="-770" width="186.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-10" target="kPVf_pZlVBaObOiWHL7V-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-10" value="&lt;div&gt;Start&lt;/div&gt;BinarySearch" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-438.37" y="-1000" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-12" target="kPVf_pZlVBaObOiWHL7V-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-12" value="กำหนดตัวแปร Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445.87" y="-910" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-15" target="kPVf_pZlVBaObOiWHL7V-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-15" target="kPVf_pZlVBaObOiWHL7V-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-15" value="RealData = 8 หรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-438.78999999999996" y="-800" width="135.84" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-17" target="kPVf_pZlVBaObOiWHL7V-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-17" value="ส่งค่าออกจาก&lt;div&gt;BinarySearch&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225.87" y="-690" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-19" target="kPVf_pZlVBaObOiWHL7V-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-485.87" y="-610" />
+              <mxPoint x="-485.87" y="-840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-19" value="เพิ่ม i&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445.87" y="-630" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-21" target="kPVf_pZlVBaObOiWHL7V-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-380.87" y="-850" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-22" value="&lt;div&gt;End&lt;/div&gt;BinarySearch" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-218.37" y="-610" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kPVf_pZlVBaObOiWHL7V-24" target="kPVf_pZlVBaObOiWHL7V-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-24" value="Break" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225.87" y="-770" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPVf_pZlVBaObOiWHL7V-25" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745.8800000000001" y="-690" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
