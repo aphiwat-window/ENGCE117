@@ -43,14 +43,6 @@ int KnapsackBT(int *w, int *v, int n, int wx, int i, int *x) {
             }
             y[k] = 0;
         }
-
-        a = KnapsackBT(w, v, n, wx, k + 1, y);
-        if (a > b) {
-            b = a;
-            for (int j = 0; j < n; j++) {
-                x[j] = y[j];
-            }
-        }
     }
     return b;
 }
