@@ -20,6 +20,11 @@ int main() {
     printf("Enter number of elements to push into stack: ");
     scanf("%d", &n);
 
+    if ( n == 0 ) {
+        printf( "Error" ) ;
+        return 0 ;
+    }
+    
     printf("Enter %d elements:\n", n);
     for (int i = 0; i < n; i++) {
         int val;
@@ -54,6 +59,7 @@ int pop(struct Stack* stack) {
 int peek(struct Stack* stack) {
     return stack->arr[stack->top] ;
 }
+
 int isEmpty(struct Stack* stack) {
     if (stack->top == -1) { 
         return 1; 
